@@ -1,0 +1,18 @@
+.light-red {
+    background-color: rgb(255, 151, 172);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+#big-text {
+    font-size: 36px;
+    color: blue;
+}
+
+.med {
+    font-size: 24px;
+}
+
+#four {
+    background-color: lightgreen;
+    font-weight: bold;
+}
